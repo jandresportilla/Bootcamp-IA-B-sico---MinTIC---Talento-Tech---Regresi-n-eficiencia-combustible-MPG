@@ -10,7 +10,10 @@ Dataset tomado de Kaggle https://www.kaggle.com/datasets/jawadkhan65/auto-mpg-fu
 About Dataset
 This dataset has been curated to facilitate machine learning tasks aimed at predicting fuel efficiency of vehicles. The original data has been meticulously cleaned and reduced to include only the most relevant features, enhancing usability for modeling and analysis.
 
+
 Features:
+
+
 r: Range, possibly indicating the total driving range of the vehicle.
 
 m (kg): Mass of the vehicle in kilograms.
