@@ -12,17 +12,30 @@ This dataset has been curated to facilitate machine learning tasks aimed at pred
 
 Features:
 r: Range, possibly indicating the total driving range of the vehicle.
+
 m (kg): Mass of the vehicle in kilograms.
+
 Mt: CO2 emissions in metric tons.
+
 Ewltp (g/km): CO2 emissions measured under the Worldwide Harmonized Light Vehicles Test Procedure (WLTP) in grams per kilometer.
+
 Ft: Type of fuel used by the vehicle (e.g., petrol, diesel, electric).
+
 Fm: Composition of the fuel mix used by the vehicle.
+
 ec (cm3): Engine capacity in cubic centimeters.
+
 ep (KW): Engine power output in kilowatts.
+
 z (Wh/km): Energy consumption in watt-hours per kilometer.
+
 Erwltp (g/km): CO2 emissions reduction in grams per kilometer measured under WLTP.
+
 Fuel consumption: The target variable representing the fuel consumption of the vehicle.
+
 Electric range (km): The maximum distance the vehicle can travel on electric power alone.
+
+
 
 Usage:
 This dataset is ideal for machine learning practitioners and researchers interested in developing models to predict fuel efficiency based on various vehicle characteristics. It is well-suited for regression tasks, exploratory data analysis, and feature engineering exercises.
