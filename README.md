@@ -1,0 +1,2 @@
+# Bootcamp-IA-B-sico---MinTIC---Talento-Tech---Regresi-n-eficiencia-combustible-MPG
+Problema Sector del AUTOMOTRIZ de Predicción en tarea de REGRESIÓN >> Variable Continua >> Valores Flotantes --->>Eficiencia Consumo de Combustible Vehículo.      Dataset tomado de Kaggle https://www.kaggle.com/datasets/jawadkhan65/auto-mpg-fuel-efficiency-prediction                                 Predicting fuel efficiency of vehicles
